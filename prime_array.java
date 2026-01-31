@@ -1,4 +1,4 @@
-
+// q1
 import java.util.*;
 class prime_array {
     public static boolean isPrime(long n){
