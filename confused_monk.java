@@ -1,5 +1,4 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
+
 import java.util.*;
 class confused_monk {
     public static long hcf(long n1,long n2){
